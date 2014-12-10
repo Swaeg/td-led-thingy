@@ -40,6 +40,6 @@ You need to start the Fadecandy server to receive the pixels from Touch Designer
 
 Once started, you should see something like: "Fadecandy server listening at some.ip.address:7890". This means the server is up and running, waiting for a client to connect. Now head back to Touch Designer and press Play.
 
-
+You might want to check out [Fadecandy: Server Configuration](https://github.com/scanlime/fadecandy/blob/master/doc/fc_server_config.md) for more detailed information on configuring your Fadecandy.
 
 
