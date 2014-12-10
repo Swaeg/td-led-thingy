@@ -31,4 +31,15 @@ and then
 
 [ScreenCaps]
 
+Don't press Play yet, you still need to fire up the Fadecandy server on the machine you have the Fadecandy´s usb cable attached to.
+
+
+Fadecandy
+=============
+You need to start the Fadecandy server to receive the pixels from Touch Designer. Pre-compiled binaries are found in fadecandy/bin/. For Raspberry Pi use fcserver-rpi, OSX fcserver-osx and on Windows fcserver.exe.
+
+Once started, you should see something like: "Fadecandy server listening at some.ip.address:7890". This means the server is up and running, waiting for a client to connect. Now head back to Touch Designer and press Play.
+
+
+
 
