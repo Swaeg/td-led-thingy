@@ -1,7 +1,7 @@
 td-led-thingy
 =============
 
-Send pixels to OpenPixelControl server for controlling addressable led strips with Fadecandy. Pixel data is generated in Touch Designer.
+Send pixels to OpenPixelControl server for controlling addressable led strips with Fadecandy. Pixel data is generated in TouchDesigner.
 
 
 Prerequisites
@@ -12,12 +12,12 @@ Bunch of addressable led strips (the type?), a functioning power supply for powe
 Included in /touchdesigner you can find the example TD patch that connects to the OPC server and sends the pixels.
 
 
-Touch Designer
+TouchDesigner
 =============
 
-If you don't have Touch Designer yet, get it from XXXX. 
+If you don't have TouchDesigner yet, get it from http://www.derivative.ca/. 
 
-Once Touch Designer is installed, copy opc.py to C:\Win\TD\thedir and restart(?) Touch Designer.
+Once TouchDesigner is installed, copy opc.py to C:\Win\TD\thedir and restart(?) TouchDesigner.
 
 
 Sample Patch
